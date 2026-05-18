@@ -1,12 +1,12 @@
 # 🛡️ Hemma-SOC med Wazuh och Suricata
 
-> Ett hemmalabb-projekt där en gammal HP Chromebook x360 11 G1 EE omvandlats till en fullständig säkerhetsserver med SIEM och IDS – från Chrome OS till ett fungerande Security Operations Center.
+Ett hemmalabb-projekt där en gammal HP Chromebook x360 11 G1 EE omvandlats till en fullständig säkerhetsserver med SIEM och IDS – från Chrome OS till ett fungerande Security Operations Center.
 
 ---
 
 ## 📖 Bakgrund
 
-Projektet startade med en gammal Chromebook som inte längre fick säkerhetsuppdateringar (Chrome OS EOL sedan juni 2024). Istället för att låta den samla damm omvandlades den till en dedikerad säkerhetsserver för hemmanätverket.
+Projektet startade med en gammal Chromebook som inte längre användes eller fick säkerhetsuppdateringar (Chrome OS EOL sedan juni 2024). Istället för att låta den samla damm omvandlades den till en dedikerad säkerhetsserver för hemmanätverket.
 
 Målet var att bygga praktisk erfarenhet av verktyg som används i riktiga SOC-miljöer – Wazuh för SIEM och Suricata för nätverksövervakning.
 
